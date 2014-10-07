@@ -1,0 +1,22 @@
+{
+  "name": "sith",
+  "version": "0.0.1",
+  "description": "Client device manager",
+  "main": "sith",
+  "keywords": [
+    "device"
+  ],
+  "authors": [
+    "Filipp Dernovoy <htmlmasta@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/htmlmasta/sith",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
